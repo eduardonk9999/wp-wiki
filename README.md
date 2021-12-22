@@ -15,14 +15,15 @@
 3 - Colocar/criar o arquivo style.css na raiz do tema
 
 4 - Adicionar a descrição do tema no topo do style.css
-/_
-Theme Name:
-Theme URI:
-Author: A
-Author URI:
-Description:
-Version: 1.0
-_/
+
+<ul>
+  <li>Theme Name:</li>
+  <li>Theme URI:</li>
+  <li>Author: A</li>
+  <li>Author URI:</li>
+  <li>Description:</li>
+  <li>Version: 1.0</li>
+</ul>
 
 5 - Ativar o tema no Wordpress
 
