@@ -16,11 +16,11 @@
 
 4 - Adicionar a descrição do tema no topo do style.css
 /_
-Theme Name: Rest
-Theme URI: http://rest.com
-Author: André Rafael
-Author URI: http://origamid.com/
-Description: Tema criado para o restaurante Rest
+Theme Name:
+Theme URI:
+Author: A
+Author URI:
+Description:
 Version: 1.0
 _/
 
