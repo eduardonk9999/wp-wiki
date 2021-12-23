@@ -937,3 +937,13 @@ footer {
     padding: 20px 0px 10px 0;
   }
 }
+
+h1.title__paragrhp {
+  text-align: center;
+  color: #fff;
+}
+
+p.paragrhp__post {
+  color: #fff;
+  text-align: center;
+}
